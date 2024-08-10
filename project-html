@@ -1,0 +1,17 @@
+<section class="testimonial-section">
+    <h2>What Our Clients Say</h2>
+    <div class="testimonial">
+        <p class="quote">"This company exceeded my expectations. The service was impeccable and the product quality is outstanding!"</p>
+        <p class="client-name">– yamini, CEO of Example Corp</p>
+    </div>
+
+    <div class="testimonial">
+        <p class="quote">"I couldn't be happier with the results. The team was professional and delivered everything on time."</p>
+        <p class="client-name">– Smith, Founder of Startup Inc.</p>
+    </div>
+
+    <div class="testimonial">
+        <p class="quote">"The best experience I've ever had with a company. Their attention to detail is second to none."</p>
+        <p class="client-name">– Sarah , Marketing Director at Brand XYZ</p>
+    </div>
+</section>
