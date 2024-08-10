@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY first web page</title>
+</head>
+<body>
+    <img src="https://i.pinimg.com/originals/52/c6/65/52c665df0515dd447eb92544374cf543.jpg"alt="description of the image">
+</body>
+</html>
