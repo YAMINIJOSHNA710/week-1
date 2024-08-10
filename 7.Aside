@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my first webpage</title>
+</head>
+<body>
+    <aside>
+        <h2>sidebar title</h2>
+        <p>some additional information in the side bar</p>
+    </aside>
+</body>
+</html>
